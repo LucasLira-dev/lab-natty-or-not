@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# foto de perfil para o GitHub ;
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criando uma foto de perfil com as minhas caracteristicas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+usei a imagem de perfil da professora Elidiana para criar a minha própria, mandei as caracteristicas e o Canva criou
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## Resultados
+![Resultados](fotoIA.jpg)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+muito divertido
 
 ### Exemplos e Insigths
 

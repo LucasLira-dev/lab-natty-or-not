@@ -32,7 +32,7 @@ Canva
 usei a imagem de perfil da professora Elidiana para criar a minha própria, mandei as caracteristicas e o Canva criou
 
 ## Resultados
-![Resultados](fotoIA.jpg)
+![Resultados]([text](https://drive.google.com/file/d/1r_mGaKZKm2L3LFfyZJZs1U_hDZEIJjSw/view?usp=sharing))
 
 
 ## 💭 Reflexão (Opcional)
